@@ -1,0 +1,35 @@
+body{
+    margin:0;
+    background: gray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+header{
+    background:black;
+    color:white;
+    margin-top: -18.1px;
+    padding-left: .5%;
+}
+nav ul{
+    margin-left: 10%;
+}
+nav li {
+    background:black;
+    display: inline;
+    margin: 12%;
+    list-style: none;
+    
+}
+.Top{
+    color: white;
+    text-decoration: none;
+}
+
+.Title{
+    text-align: center;
+}
+h1{
+    word-spacing: 2px;
+}
+p{
+    margin: 15%;
+}
