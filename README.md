@@ -1,5 +1,5 @@
 # ML-WebApps
-This repository contains my Machine Learning Business Solutions tool. It is a web application integrated with ML models from my data science repository. To check out the analysis of my research, go to https://github.com/msloan10/Data-analytics-
+This repository contains a web application embedded with ML models from my data science repository. To check out the analysis of my research, go to https://github.com/msloan10/Data-analytics-
 
 **Tools**
 
